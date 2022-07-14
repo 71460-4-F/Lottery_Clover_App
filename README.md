@@ -1,5 +1,7 @@
 # Lottery_Clover_App
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=71460-4-F&repo=Lottery_Clover_App&countColor=orange)
+
 Demo (screenshots):
 
 ![image](https://user-images.githubusercontent.com/38273600/179077874-0f112b8c-c37b-47cf-97c7-c64e72fac945.png)
